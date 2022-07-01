@@ -1,0 +1,15 @@
+{
+  "name": "sccocacola",
+  "version": "1.0.0",
+  "description": "",
+  "main": "coca.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer-extra": "^3.3.0",
+    "puppeteer-extra-plugin-stealth": "^2.10.1"
+  }
+}
