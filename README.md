@@ -18,3 +18,5 @@
 *  [-] set account "user|password" with array userlist, ex you can see in line,
 *  [-] run
 */
+
+caranya tinggal clone ini git, terus npm install aja
