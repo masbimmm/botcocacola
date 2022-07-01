@@ -4,12 +4,7 @@
 * I do not forbid you to change my name, but please don't remove the tag Powered
 * This is next Generation From I-WRAH Tools
 * Created on : 19/06/2022
-   ______         ____  _____  ______   _______          _
- .' ____ \       |_   \|_   _||_   _ `.|_   __ \        / \
- | (___ \_| ______ |   \ | |    | | `. \ | |__) |      / _ \
-  _.____`..|______|| |\ \| |    | |  | | |  __ /      / ___ \
- | \____) |       _| |_\   |_  _| |_.' /_| |  \ \_  _/ /   \ \_
-  \______.'      |_____|\____||______.'|____| |___||____| |____|
+* Update on  : 01/07/2022
 *
 *                    BOT GRIVY WITH NODEJS
 *                      Tools By S-NDRA
