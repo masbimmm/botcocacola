@@ -30,7 +30,7 @@ const puppeteer = require("puppeteer-extra")
 const StealthPlugin = require("puppeteer-extra-plugin-stealth")
 var xxx = [
 
-// "100082024413758|contoh",
+// "ychkovx222@btsroom.com|contoh",
 // "100081721248196|contoh",
 // "100081563784148|contoh",
 // "100081839443156|contoh",
